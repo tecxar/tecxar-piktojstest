@@ -2,7 +2,7 @@
 
 # installation on both client and server
 
-## project setup on server
+## Project setup on server
 
 ```sh
 npm install
@@ -28,4 +28,7 @@ npm install
 npm run dev
 ```
 
-### You should see App on http://localhost:5173/
+### You should see App on 
+```sh
+http://localhost:5173/
+```
