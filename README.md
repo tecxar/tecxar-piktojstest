@@ -1,6 +1,6 @@
 # tecxar-piktojstest
 
-# installation on both client and server
+# Installation on both client and server
 
 ## Project setup on server
 
