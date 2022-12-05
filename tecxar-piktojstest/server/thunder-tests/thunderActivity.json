@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "9cebf5b7-0927-4705-ba30-96f7f2fd8ec4",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8000/images",
+    "url": "http://localhost:8000/images",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-04T07:16:35.127Z",
+    "modified": "2022-12-04T07:16:35.127Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
