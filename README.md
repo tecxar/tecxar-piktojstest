@@ -8,6 +8,13 @@
 npm install
 ```
 
+
+```sh
+npm start
+```
+
+
+
 ### you should see server running on
 
 ```sh
